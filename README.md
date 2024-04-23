@@ -1,6 +1,6 @@
 # Calculator
 Build a Calculator using React 
-#Steps to Start
+# Steps to Start
   cd calculator
   npm start 
   
